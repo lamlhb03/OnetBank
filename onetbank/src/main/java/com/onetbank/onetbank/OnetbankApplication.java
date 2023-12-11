@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OnetbankApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OnetbankApplication.class, args);
+		//SpringApplication.run(OnetbankApplication.class, args);
+		System.out.println("Hi world");
 	}
 
 }
