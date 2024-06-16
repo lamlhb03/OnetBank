@@ -8,7 +8,7 @@ public class OnetbankApplication {
 
 	public static void main(String[] args) {
 		//SpringApplication.run(OnetbankApplication.class, args);
-		System.out.println("Hi world");
+		//System.out.println("Hi world");
 	}
 
 }
