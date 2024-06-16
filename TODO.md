@@ -1,6 +1,6 @@
 #[yyyy/MM/dd] new task hear
 + ...
-#2024/06/16 We need a database ledge, a front-end, ledger writer, balance reader, transaction history
+[#2024/06/16] We need a database ledge, a front-end, ledger writer, balance reader, transaction history
 System components:
 + 1. loadgen 
 + 2. frontend
